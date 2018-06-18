@@ -21,7 +21,7 @@ Gitbook 在线浏览：
 查看如何贡献
 
 查看文档的组织结构与使用方法
-test hadbook
+test hadbook abcd
 
 社区&读者交流
 
